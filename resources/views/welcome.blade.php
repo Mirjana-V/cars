@@ -13,6 +13,6 @@
 
 </head>
     <body class="antialiased">
-        <h1>Welcome to Cars project</h1>
+        <h1>Welcome, {{$name}}. I'm {{$age}} years old.</h1>
     </body>
 </html>
