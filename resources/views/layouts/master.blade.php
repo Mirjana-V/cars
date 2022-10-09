@@ -123,7 +123,13 @@
   </div>
 </div>
 
+<hr>
+
 <main class="container">
+
+  <a href="/cars">Cars</a>
+
+  <a href="/about">About</a>
   
   <div class="p-4 p-md-5 mb-4 rounded text-bg-dark">
     <div class="col-md-6 px-0">
